@@ -21,4 +21,8 @@ public class Circle{
     public String toString(){
         return super.toString() + "\nRadius: " + this.radius;
     }
+
+    public String findRadius(){
+        return "radius";
+    }
 }
