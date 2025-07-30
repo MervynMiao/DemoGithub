@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Event"
+    "\\Event",
+    "\\Event\\Event"
   ],
-  "SelectedNode": "\\Event\\Event.sln",
+  "SelectedNode": "\\Event\\Event",
   "PreviewInSolutionExplorer": false
 }
